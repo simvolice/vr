@@ -19,9 +19,9 @@ function init() {
     	icon: image,
 		position: new google.maps.LatLng(51.13333, 71.43333),
 		map: map,
-		title: 'Black&White'
+		title: 'VRTECHNOLOGY'
 	});
-	var contentString = '<div class="marker-wrap"><h4>Black&White</h4>Put your info here</div>';
+	var contentString = '<div class="marker-wrap"><h4>VRTECHNOLOGY</h4>Мы находимся в Астане</div>';
 	var infowindow = new google.maps.InfoWindow({
 		content: contentString
 	});

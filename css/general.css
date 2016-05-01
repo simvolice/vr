@@ -1271,10 +1271,10 @@ nav {
 	color:#999;
 }
 .btn-show:before {
-	content: "show contacts";
+	content: "показать контакты";
 }
 .btn-show.open:before {
-	content: "hide contacts";
+	content: "скрыть контакты";
 }
 .btn-show.open:after{
     -moz-transform: rotate(180deg);
